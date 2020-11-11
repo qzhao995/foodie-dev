@@ -1,0 +1,4 @@
+com\qzhao\mapper\OrderStatusMapper.class
+com\qzhao\mapper\OrderItemsMapper.class
+com\qzhao\mapper\OrdersMapperCustom.class
+com\qzhao\mapper\OrdersMapper.class

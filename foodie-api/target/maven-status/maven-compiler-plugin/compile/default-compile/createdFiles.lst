@@ -1,0 +1,3 @@
+com\qzhao\config\CorsConfig.class
+com\qzhao\config\WebMvcConfig.class
+com\qzhao\config\Swagger2.class
