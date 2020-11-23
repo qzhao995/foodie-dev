@@ -1,2 +1,9 @@
+com\qzhao\service\impl\ItemServiceImpl.class
+com\qzhao\service\ItemService.class
+com\qzhao\service\center\CenterUserService.class
+com\qzhao\service\center\MyCommentsService.class
+com\qzhao\service\UsersService.class
 com\qzhao\service\impl\center\MyOrdersServiceImpl.class
+com\qzhao\service\impl\UsersServiceImpl.class
+com\qzhao\service\center\MyOrdersService.class
 com\qzhao\service\impl\center\BaseService.class

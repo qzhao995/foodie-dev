@@ -1,3 +1,9 @@
+com\qzhao\controller\BaseController.class
+com\qzhao\controller\PassportController.class
+com\qzhao\controller\ItemsController.class
+com\qzhao\FoodieApplication.class
+com\qzhao\aspect\ServiceLogAspect.class
 com\qzhao\config\CorsConfig.class
 com\qzhao\config\WebMvcConfig.class
 com\qzhao\config\Swagger2.class
+com\qzhao\WarStarterApplication.class
