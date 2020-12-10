@@ -1,12 +1,17 @@
+com\qzhao\mapper\CategoryMapper.class
 com\qzhao\mapper\OrderStatusMapper.class
 com\qzhao\mapper\ItemsMapperCustom.class
 com\qzhao\mapper\ItemsCommentsMapperCustom.class
 com\qzhao\mapper\OrderItemsMapper.class
+com\qzhao\mapper\CategoryMapperCustom.class
+com\qzhao\mapper\CarouselMapper.class
+com\qzhao\mapper\UserAddressMapper.class
 com\qzhao\my\mapper\MyMapper.class
 com\qzhao\mapper\OrdersMapperCustom.class
 com\qzhao\mapper\ItemsCommentsMapper.class
 com\qzhao\mapper\ItemsParamMapper.class
 com\qzhao\mapper\ItemsSpecMapper.class
+com\qzhao\mapper\StuMapper.class
 com\qzhao\mapper\UsersMapper.class
 com\qzhao\mapper\ItemsImgMapper.class
 com\qzhao\mapper\ItemsMapper.class

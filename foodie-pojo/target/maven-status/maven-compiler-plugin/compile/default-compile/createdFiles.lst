@@ -8,7 +8,10 @@ com\qzhao\pojo\vo\SubCategoryVO.class
 com\qzhao\pojo\bo\center\OrderItemsCommentBO.class
 com\qzhao\pojo\vo\NewItemsVO.class
 com\qzhao\pojo\Orders.class
+com\qzhao\pojo\bo\SubmitOrderBO.class
+com\qzhao\pojo\bo\AddressBO.class
 com\qzhao\pojo\bo\center\CenterUserBO.class
+com\qzhao\pojo\bo\ShopcartBO.class
 com\qzhao\pojo\vo\MyOrdersVO.class
 com\qzhao\pojo\bo\UserBo.class
 com\qzhao\pojo\OrderItems.class
